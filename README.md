@@ -1,7 +1,7 @@
 # KVO-Practice
 MVCアーキテクチャの時間監視アプリ
 
-##参考記事
+## 参考記事
 
 <li>MVCモデルの簡易アプリは[こちら](https://qiita.com/osamu1203/items/5f49dd6787f86e6c61d3)</li>
 
